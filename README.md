@@ -18,12 +18,13 @@ Relevant Paper: Baldi, P., P. Sadowski, and D. Whiteson. “Searching for Exotic
 
 ## Donut Paper
 
-Minimal Implementation of **Donut** 🍩, **Do**cume**n**t **u**nderstanding **t**ransformer, is a new method of document understanding that utilizes an OCR-free end-to-end Transformer model. Donut does not require off-the-shelf OCR engines/APIs, yet it shows state-of-the-art performances on various visual document understanding tasks, such as visual document classification or information extraction (a.k.a. document parsing). 
+Minimal Implementation of **Donut** 🍩, **Do**cume**n**t **u**nderstanding **t**ransformer, is a new method of document understanding that utilizes an OCR-free end-to-end Transformer model. Donut does not require off-the-shelf OCR engines/APIs, yet it shows state-of-the-art performances on various visual document understanding tasks, such as visual document classification or information extraction (a.k.a. document parsing). <br>
+> [**OCR-free Document Understanding Transformer**](https://arxiv.org/abs/2111.15664).<br>
 
 
 ## Question Answering Using T5
 
-Using T5 for persian question answering fine tuned on Persian-SQUAD
+Using T5 for persian question answering fine tuned on Persian-SQUAD, see the dtaset here: https://github.com/sajjjadayobi/PersianQA/tree/main/dataset
 
 ## Fine Tune GPT-2
 
